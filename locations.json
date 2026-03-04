@@ -9,7 +9,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Bangalore - India (BLR-F1)",
@@ -21,7 +21,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Dallas - Texas - USA (DFW-F1)",
@@ -33,7 +33,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Dubai - United Arab Emirates (DXB-F1)",
@@ -45,7 +45,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Dubai - United Arab Emirates (DXB-F2) To comply with UAE regulations and to avoid latency issues, on-shore (domestic) customers must use this location.",
@@ -57,7 +57,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Frankfurt - Germany (FRA-F1)",
@@ -69,7 +69,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Hong Kong (HKG-F1)",
@@ -81,7 +81,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Istanbul - Turkey (IST-F1)",
@@ -93,7 +93,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Advanced or Comprehensive subscription"
+        "availability": "Advanced or Comprehensive Subscription"
     },
     {
         "name": "Johannesburg - South Africa (JNB-F1)",
@@ -105,7 +105,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Komagome - Japan (TYO-F1)",
@@ -117,10 +117,10 @@
         "analyticsAndEndpointManagement": "No",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
-        "name": "London - United Kingdom (LON-F1)",
+        "name": "London - United Kingdom (LON-F3)",
         "location": {
             "lat": 51.507351,
             "long": -0.127758
@@ -129,7 +129,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Madrid - Spain (MAD-F1)",
@@ -141,7 +141,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Miami - Florida - USA (MIA-F1)",
@@ -153,7 +153,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Ottawa - Canada (YOW-F1)",
@@ -165,10 +165,10 @@
         "analyticsAndEndpointManagement": "No",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
-        "name": "Paris - France (PAR-F1)",
+        "name": "Paris - France (PAR-F4)",
         "location": {
             "lat": 48.856613,
             "long": 2.352222
@@ -177,7 +177,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Plano - Texas - USA (DFW-F3)",
@@ -189,7 +189,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Pune - India (PNQ-F1)",
@@ -201,7 +201,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "San Jose - California - USA (SJC-F4)",
@@ -213,7 +213,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Sao Paulo - Brazil (GRU-F1)",
@@ -225,7 +225,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Singapore - Republic of Singapore (SIN-F1)",
@@ -237,10 +237,10 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
-        "name": "Sydney - Australia (SYD-F1)",
+        "name": "Sydney - Australia (SYD-F2)",
         "location": {
             "lat": -33.868820,
             "long": 151.209296
@@ -249,7 +249,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Tokyo - Japan (TYO-F2)",
@@ -261,7 +261,7 @@
         "analyticsAndEndpointManagement": "No",
         "endpointManagementLocation": "Yes",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Toronto - Canada (YTO-F1)",
@@ -273,7 +273,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Valbonne - France (NCE-F1)",
@@ -285,7 +285,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription. Not available for new provisioning"
+        "availability": "Any Subscription. Not available for new provisioning"
     },
     {
         "name": "Vancouver - Canada (YVR-F2)",
@@ -297,7 +297,7 @@
         "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
         "accessLocation": "No",
-        "availability": "Any subscription"
+        "availability": "Any Subscription"
     },
     {
         "name": "Amsterdam - Netherlands (AMS-G2)",
@@ -888,7 +888,7 @@
         "availability": "Comprehensive Subscription"
     },
     {
-        "name": "Bogotá - Colombia (BOG-E1)",
+        "name": "Bogotá - Colombia (BOG-O1)",
         "location": {
             "lat": 4.7110,
             "long": -74.0721
@@ -896,8 +896,8 @@
         "cloud": "Public",
         "analyticsAndEndpointManagement": "No",
         "endpointManagementLocation": "No",
-        "accessLocation": "Yes",
-        "availability": "Comprehensive Subscription"
+        "accessLocation": "No",
+        "availability": "Advanced or Comprehensive Subscription"
     },
     {
         "name": "Boston - Massachusetts - USA (BOS-E1)",
@@ -1284,7 +1284,7 @@
         "availability": "Comprehensive Subscription"
     },
     {
-        "name": "London - United Kingdom (LON-E1)",
+        "name": "London - United Kingdom (LON-O1)",
         "location": {
             "lat": 51.507351,
             "long": -0.127758
@@ -1292,8 +1292,8 @@
         "cloud": "Public",
         "analyticsAndEndpointManagement": "No",
         "endpointManagementLocation": "No",
-        "accessLocation": "Yes",
-        "availability": "Comprehensive Subscription"
+        "accessLocation": "No",
+        "availability": "Advanced or Comprehensive Subscription"
     },
     {
         "name": "Los Angeles - California - USA (LAX-E1)",
@@ -1404,7 +1404,7 @@
         "availability": "Advanced or Comprehensive Subscription"
     },
     {
-        "name": "Mumbai - India (BOM-E1)",
+        "name": "Mumbai - India (BOM-O1)",
         "location": {
             "lat": 19.07609,
             "long": 72.877426
@@ -1412,8 +1412,8 @@
         "cloud": "Public",
         "analyticsAndEndpointManagement": "No",
         "endpointManagementLocation": "No",
-        "accessLocation": "Yes",
-        "availability": "Comprehensive Subscription"
+        "accessLocation": "No",
+        "availability": "Advanced or Comprehensive Subscription"
     },
     {
         "name": "Munich - Germany (MUC-E1)",
@@ -1428,16 +1428,16 @@
         "availability": "Comprehensive Subscription"
     },
     {
-        "name": "Muscat - Oman (MCT-E1)",
+        "name": "Muscat - Oman (MCT-A1)",
         "location": {
             "lat": 23.5880,
             "long": 58.3829
         },
         "cloud": "Public",
-        "analyticsAndEndpointManagement": "No",
+        "analyticsAndEndpointManagement": "Yes",
         "endpointManagementLocation": "No",
-        "accessLocation": "Yes",
-        "availability": "Comprehensive Subscription"
+        "accessLocation": "No",
+        "availability": "Advanced or Comprehensive Subscription"
     },
     {
         "name": "New York - New York - USA (JFK-E1)",
@@ -1476,7 +1476,7 @@
         "availability": "Comprehensive Subscription"
     },
     {
-        "name": "Paris - France (PAR-E1)",
+        "name": "Paris - France (PAR-O1)",
         "location": {
             "lat": 48.856613,
             "long": 2.352222
@@ -1484,8 +1484,8 @@
         "cloud": "Public",
         "analyticsAndEndpointManagement": "No",
         "endpointManagementLocation": "No",
-        "accessLocation": "Yes",
-        "availability": "Comprehensive Subscription"
+        "accessLocation": "No",
+        "availability": "Advanced or Comprehensive Subscription"
     },
     {
         "name": "Perth - Australia (PER-E1)",
@@ -1668,7 +1668,7 @@
         "availability": "Comprehensive Subscription"
     },
     {
-        "name": "Sydney - Australia (SYD-E1)",
+        "name": "Sydney - Australia (SYD-O1)",
         "location": {
             "lat": -33.86882,
             "long": 151.209296
@@ -1676,8 +1676,8 @@
         "cloud": "Public",
         "analyticsAndEndpointManagement": "No",
         "endpointManagementLocation": "No",
-        "accessLocation": "Yes",
-        "availability": "Comprehensive Subscription"
+        "accessLocation": "No",
+        "availability": "Advanced or Comprehensive Subscription"
     },
     {
         "name": "Tokyo - Japan (TYO-G2)",
@@ -1726,6 +1726,18 @@
         "endpointManagementLocation": "No",
         "accessLocation": "Yes",
         "availability": "Comprehensive Subscription"
+    },
+    {
+        "name": "Vinhedo - Brazil (VCP-O1)",
+        "location": {
+            "lat": -23.029722,
+            "long": -46.974444
+        },
+        "cloud": "Public",
+        "analyticsAndEndpointManagement": "No",
+        "endpointManagementLocation": "No",
+        "accessLocation": "No",
+        "availability": "Advanced or Comprehensive Subscription"
     },
     {
         "name": "Warsaw - Poland (WAW-E1)",
