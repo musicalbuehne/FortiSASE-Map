@@ -1,6 +1,6 @@
 [
   {
-    "name": "Ashburn - Virginia - USA (IAD-F5)",
+    "name": "Ashburn - Virginia - United States (IAD-F5)",
     "location": {
       "lat": 39.043757,
       "long": -77.487442
@@ -12,7 +12,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Auckland, New Zealand (AKL-F1)",
+    "name": "Auckland - New Zealand (AKL-F1)",
     "location": {
       "lat": -36.8485,
       "long": 174.7633
@@ -36,7 +36,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Burnaby - Canada (YVR-F5)",
+    "name": "Burnaby - Canada (YVR-F6)",
     "location": {
       "lat": 49.282729,
       "long": -123.120738
@@ -48,7 +48,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Dallas - Texas - USA (DFW-F2)",
+    "name": "Dallas - Texas - United States (DFW-F2)",
     "location": {
       "lat": 32.7767,
       "long": -96.797
@@ -60,7 +60,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Dubai - United Arab Emirates (DXB-F1)",
+    "name": "Dubai - United Arab Emirates (DXB-F4)",
     "location": {
       "lat": 25.276987,
       "long": 55.296249
@@ -72,7 +72,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Dubai - United Arab Emirates (DXB-F2)",
+    "name": "Dubai - United Arab Emirates (DXB-F3)",
     "location": {
       "lat": 25.276987,
       "long": 55.296249
@@ -84,7 +84,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Frankfurt - Germany (FRA-F5)",
+    "name": "Frankfurt - Germany (FRA-F6)",
     "location": {
       "lat": 50.110924,
       "long": 8.682127
@@ -96,7 +96,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Hong Kong (HKG-F1)",
+    "name": "Hong Kong (HKG-F2)",
     "location": {
       "lat": 22.3193,
       "long": 114.1694
@@ -108,7 +108,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Istanbul – Turkey (IST-F1)",
+    "name": "Istanbul - Turkey (IST-F1)",
     "location": {
       "lat": 41.008238,
       "long": 28.978359
@@ -117,13 +117,25 @@
     "analyticsAndEndpointManagement": "Yes",
     "endpointManagementLocation": "n/a",
     "accessLocation": "No",
-    "availability": "Standard subscription (Feature only), Advanced or Comprehensive subscription"
+    "availability": "Standard subscription (v7.4 only), Advanced or Comprehensive subscription"
   },
   {
     "name": "Johannesburg - South Africa (JNB-F1)",
     "location": {
       "lat": -26.2041,
       "long": 28.0473
+    },
+    "cloud": "Fortinet",
+    "analyticsAndEndpointManagement": "Yes",
+    "endpointManagementLocation": "n/a",
+    "accessLocation": "No",
+    "availability": "Any subscription"
+  },
+  {
+    "name": "Kamloops - Canada (YKA-F1)",
+    "location": {
+      "lat": 50.6758269,
+      "long": -120.339415
     },
     "cloud": "Fortinet",
     "analyticsAndEndpointManagement": "Yes",
@@ -144,6 +156,18 @@
     "availability": "Any subscription"
   },
   {
+    "name": "Leeds - United Kingdom (LBA-F1)",
+    "location": {
+      "lat": 53.7974185,
+      "long": -1.5437941
+    },
+    "cloud": "Fortinet",
+    "analyticsAndEndpointManagement": "Yes",
+    "endpointManagementLocation": "n/a",
+    "accessLocation": "No",
+    "availability": "Any subscription"
+  },
+  {
     "name": "London - United Kingdom (LON-F4)",
     "location": {
       "lat": 51.507351,
@@ -156,7 +180,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Madrid - Spain (MAD-F2)",
+    "name": "Madrid - Spain (MAD-F4)",
     "location": {
       "lat": 40.4168,
       "long": -3.7038
@@ -168,7 +192,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Miami - Florida - USA (MIA-F3)",
+    "name": "Miami - Florida - United States (MIA-F4)",
     "location": {
       "lat": 25.7617,
       "long": -80.1918
@@ -192,7 +216,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Paris - France (PAR-F4)",
+    "name": "Paris - France (PAR-F5)",
     "location": {
       "lat": 48.856613,
       "long": 2.352222
@@ -204,7 +228,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Plano - Texas - USA (DFW-F3)",
+    "name": "Plano - Texas - United States (DFW-F3)",
     "location": {
       "lat": 32.7767,
       "long": -96.797
@@ -228,7 +252,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "San Jose - California - USA (SJC-F4)",
+    "name": "San Jose - California - United States (SJC-F7)",
     "location": {
       "lat": 37.338208,
       "long": -121.886329
@@ -252,7 +276,7 @@
     "availability": "Any subscription"
   },
   {
-    "name": "Singapore - Republic of Singapore (SIN-F4)",
+    "name": "Singapore - Republic of Singapore (SIN-F5)",
     "location": {
       "lat": 1.352083,
       "long": 103.819836
@@ -268,6 +292,18 @@
     "location": {
       "lat": -33.86882,
       "long": 151.209296
+    },
+    "cloud": "Fortinet",
+    "analyticsAndEndpointManagement": "Yes",
+    "endpointManagementLocation": "n/a",
+    "accessLocation": "No",
+    "availability": "Any subscription"
+  },
+  {
+    "name": "Taipei - Taiwan (TPE-F1)",
+    "location": {
+      "lat": 25.033,
+      "long": 121.5654
     },
     "cloud": "Fortinet",
     "analyticsAndEndpointManagement": "Yes",
@@ -360,7 +396,7 @@
     "availability": "Advanced or Comprehensive Subscription"
   },
   {
-    "name": "Ashburn - Virginia - USA (IAD-G2)",
+    "name": "Ashburn - Virginia - United States (IAD-G2)",
     "location": {
       "lat": 39.043757,
       "long": -77.487442
@@ -372,7 +408,7 @@
     "availability": "Comprehensive Subscription"
   },
   {
-    "name": "Ashburn - Virginia - USA (IAD-O1)",
+    "name": "Ashburn - Virginia - United States (IAD-O1)",
     "location": {
       "lat": 39.043757,
       "long": -77.487442
@@ -432,7 +468,7 @@
     "availability": "Advanced or Comprehensive Subscription"
   },
   {
-    "name": "Chicago - Illinois - USA (ORD-A1)",
+    "name": "Chicago - Illinois - United States (ORD-A1)",
     "location": {
       "lat": 41.8781,
       "long": -87.6298
@@ -444,7 +480,7 @@
     "availability": "Comprehensive Subscription"
   },
   {
-    "name": "Chicago - Illinois - USA (ORD-O1)",
+    "name": "Chicago - Illinois - United States (ORD-O1)",
     "location": {
       "lat": 41.8781,
       "long": -87.6298
@@ -480,7 +516,7 @@
     "availability": "Advanced or Comprehensive Subscription"
   },
   {
-    "name": "Dallas - Texas - USA (DFW-G2)",
+    "name": "Dallas - Texas - United States (DFW-G2)",
     "location": {
       "lat": 32.7767,
       "long": -96.797
@@ -600,7 +636,7 @@
     "availability": "Advanced or Comprehensive Subscription"
   },
   {
-    "name": "Hong Kong – China (HKG-G2)",
+    "name": "Hong Kong - China (HKG-G2)",
     "location": {
       "lat": 22.3193,
       "long": 114.1694
@@ -630,7 +666,7 @@
       "long": 39.172779
     },
     "cloud": "Public",
-    "analyticsAndEndpointManagement": "No",
+    "analyticsAndEndpointManagement": "Yes",
     "endpointManagementLocation": "n/a",
     "accessLocation": "No",
     "availability": "Advanced or Comprehensive Subscription"
@@ -648,7 +684,7 @@
     "availability": "Comprehensive Subscription"
   },
   {
-    "name": "Las Vegas - Nevada - USA (LAS-G2)",
+    "name": "Las Vegas - Nevada - United States (LAS-G2)",
     "location": {
       "lat": 36.1699,
       "long": -115.1398
@@ -672,7 +708,7 @@
     "availability": "Advanced or Comprehensive Subscription"
   },
   {
-    "name": "London - UK (LON-G2)",
+    "name": "London - United Kingdom (LON-G2)",
     "location": {
       "lat": 51.507351,
       "long": -0.127758
@@ -684,7 +720,7 @@
     "availability": "Comprehensive Subscription"
   },
   {
-    "name": "London - UK (LON-O1)",
+    "name": "London - United Kingdom (LON-O1)",
     "location": {
       "lat": 51.507351,
       "long": -0.127758
@@ -744,7 +780,7 @@
     "availability": "Advanced or Comprehensive Subscription"
   },
   {
-    "name": "Miami - US (MIA-A1)",
+    "name": "Miami - United States (MIA-A1)",
     "location": {
       "lat": 25.7617,
       "long": -80.1918
@@ -780,13 +816,25 @@
     "availability": "Advanced or Comprehensive Subscription"
   },
   {
-    "name": "Moncks Corner - South Carolina - USA (CHS-G2)",
+    "name": "Moncks Corner - South Carolina - United States (CHS-G2)",
     "location": {
       "lat": 33.1963,
       "long": -80.186
     },
     "cloud": "Public",
     "analyticsAndEndpointManagement": "Yes",
+    "endpointManagementLocation": "n/a",
+    "accessLocation": "No",
+    "availability": "Advanced or Comprehensive Subscription"
+  },
+  {
+    "name": "Monterrey - Mexico (MTY-O1)",
+    "location": {
+      "lat": 25.6802019,
+      "long": -100.315258
+    },
+    "cloud": "Public",
+    "analyticsAndEndpointManagement": "No",
     "endpointManagementLocation": "n/a",
     "accessLocation": "No",
     "availability": "Advanced or Comprehensive Subscription"
@@ -912,13 +960,25 @@
     "availability": "Advanced or Comprehensive Subscription"
   },
   {
-    "name": "Portland - Oregon - USA (PDX-G2)",
+    "name": "Portland - Oregon - United States (PDX-G2)",
     "location": {
       "lat": 45.5051,
       "long": -122.675
     },
     "cloud": "Public",
     "analyticsAndEndpointManagement": "Yes",
+    "endpointManagementLocation": "n/a",
+    "accessLocation": "No",
+    "availability": "Advanced or Comprehensive Subscription"
+  },
+  {
+    "name": "Riyadh - Saudi Arabia (RUH-O1)",
+    "location": {
+      "lat": 24.638916,
+      "long": 46.7160104
+    },
+    "cloud": "Public",
+    "analyticsAndEndpointManagement": "No",
     "endpointManagementLocation": "n/a",
     "accessLocation": "No",
     "availability": "Advanced or Comprehensive Subscription"
@@ -954,7 +1014,7 @@
       "long": -70.6693
     },
     "cloud": "Public",
-    "analyticsAndEndpointManagement": "No",
+    "analyticsAndEndpointManagement": "Yes",
     "endpointManagementLocation": "n/a",
     "accessLocation": "No",
     "availability": "Advanced or Comprehensive Subscription"
@@ -996,7 +1056,7 @@
     "availability": "Comprehensive Subscription"
   },
   {
-    "name": "St. Ghislain, Belgium (BRU-G2)",
+    "name": "St. Ghislain - Belgium (BRU-G2)",
     "location": {
       "lat": 50.4714,
       "long": 3.8218
@@ -1392,7 +1452,7 @@
     "availability": "Comprehensive Subscription"
   },
   {
-    "name": "Chicago - Illinois – USA (CHI-E1)",
+    "name": "Chicago - Illinois - USA (CHI-E1)",
     "location": {
       "lat": 41.8755616,
       "long": -87.6244212
